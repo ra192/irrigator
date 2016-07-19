@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project xsi:noNamespaceSchemaLocation="Project.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Version current="1"/>
+	<Format>Project</Format>
+	<Header>
+		<Program name="TopoR" version="6.2"/>
+		<GUID>{F2F2DB96-DDBF-48C3-BCEF-0559E1CE106B}</GUID>
+		<Annotation>Project file</Annotation>
+	</Header>
+	<Document>
+		<LocalLibrary />
+		<Pcb>
+			<File path=".\irrigator.fsx" isopened="1"/>
+		</Pcb>
+		<ARouteSessions>
+			<Session name="irrigator" date="2016-07-18 15:34:55" path=".\autoroute_irrigator_160718153455\">
+			<File path=".\autoroute_irrigator_160718153455\irrigator_995-4s.fsb" isopened="0"/>
+			</Session>
+			<Session name="irrigator" date="2016-07-18 15:35:59" path=".\autoroute_irrigator_160718153559\">
+			<File path=".\autoroute_irrigator_160718153559\irrigator_924-6s.fsb" isopened="0"/>
+			</Session>
+		</ARouteSessions>
+	</Document>
+</Project>
